@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TodayCoin/static/js/main.32513f61.js",
+    "main.js": "/TodayCoin/static/js/main.fd7b8e24.js",
     "index.html": "/TodayCoin/index.html",
-    "main.32513f61.js.map": "/TodayCoin/static/js/main.32513f61.js.map"
+    "main.fd7b8e24.js.map": "/TodayCoin/static/js/main.fd7b8e24.js.map"
   },
   "entrypoints": [
-    "static/js/main.32513f61.js"
+    "static/js/main.fd7b8e24.js"
   ]
 }
